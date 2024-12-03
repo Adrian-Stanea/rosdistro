@@ -39,6 +39,12 @@ acpitool:
   fedora: [acpitool]
   gentoo: [sys-power/acpitool]
   nixos: [acpitool]
+aditof:
+  ubuntu: [aditof]
+  debian: [aditof]
+  fedora: [aditof]
+  gentoo: [aditof]
+  nixos: [aditof]
 alsa-oss:
   arch: [alsa-oss]
   debian: [alsa-oss]
