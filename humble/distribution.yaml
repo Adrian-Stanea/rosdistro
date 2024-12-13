@@ -107,6 +107,16 @@ repositories:
       url: https://github.com/analogdevicesinc/tmcl_ros2.git
       version: humble
     status: maintained
+  adi_tof:
+    doc:
+      type: git
+      url: https://github.com/analogdevicesinc/tof-ros2.git
+      version: humble
+    source:
+      type: git
+      url: https://github.com/analogdevicesinc/tof-ros2.git
+      version: humble
+    status: maintained
   aerostack2:
     doc:
       type: git
